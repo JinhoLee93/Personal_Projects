@@ -8,6 +8,7 @@ It contains basic bank transaction functions such as checking balance, depositin
 User executes program entering command below in terminal
 - python3 atm.py
 
+User follows such steps below
 1. ATM simulation starts with the user setting up his/her card with a PIN number and balance.
 2. ATM receives the card and checks for the correct PIN number and then moves onto the main menu. 
 3. At the main menu, are three options for the user to choose, which are built in ATM class. 
