@@ -2,7 +2,7 @@
 
 **Written by Jinho Lee (jl5027@columbia.edu)
 
-[ATM.py](https://github.com/JinhoLee93/Personal_Projects/blob/main/ATM/atm.py) simulates for the user part of the modern banking system using ATM (Automatic Teller Machine).
+[atm.py](https://github.com/JinhoLee93/Personal_Projects/blob/main/ATM/atm.py) simulates for the user part of the modern banking system using ATM (Automatic Teller Machine).
 It contains basic bank transaction functions such as checking balance, depositing and withdrawing.
 
 User executes program entering command below in terminal
